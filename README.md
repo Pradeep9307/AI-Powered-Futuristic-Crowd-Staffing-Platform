@@ -1,0 +1,2 @@
+# AI-Powered-Futuristic-Crowd-Staffing-Platform
+AI-powered technologies screen hundreds of resumes to shortlist viable candidates, run skill tests, and rank candidate performance by the likelihood of success at work. They use data to provide insights that would take humans much longer to uncover. AI can even automatically schedule interviews with shortlisted candidates without the back-and-forth, and answer candidate queries through chatbots.   By leveraging the power of AI and ML, you’re freeing yourself up to concentrate on interviewing, negotiating, and more.
